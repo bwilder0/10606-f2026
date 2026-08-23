@@ -9,7 +9,7 @@ Justin Wang (justinw7@andrew.cmu.edu)
 
 Office hours: see schedule in Canvas
 
-[Syllabus](files/syllabus_10606_f2025.pdf)
+[Syllabus](files/syllabus_10606_f2026.pdf)
 
 ## Logistics
 
