@@ -31,7 +31,7 @@ This course provides a place for students to practice the necessary mathematical
 | 2    | Fri: Sep 4  | Recitation [[Problems]](/files/recitation1.pdf) [[Solutions]](/files/recitation1_solns.pdf)                                         | Homework 2 due Sunday |
 | 3    | Mon: Sep 7  | No class (Labor Day)                                                                  |                       |
 | 3    | Wed: Sep 9  | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Practice problems]](files/F25_10606_Quiz_1_Practice_Problems.pdf) [[Solutions]](files/F25_10606_Quiz_Practice_Problems_Solutions.pdf)                                                      |                       |
-| 3    | Fri: Sep 11 | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf)                                                                                     | Homework 3 due Sunday |
+| 3    | Fri: Sep 11 | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf)                                                                                     | [Homework 3](files/F26_10606_HW2.pdf) due Sunday |
 | 4    | Mon: Sep 14 | Matrix inverses and linear regression [[Slides]](files/lecture_6.pptx)                                               |                       |
 | 4    | Wed: Sep 16 | Matrix factorization and low-rank structure [[Slides]](files/lecture_7.pptx)    |                       |
 | 4    | Fri: Sep 18 | Recitation  [[Problems]](/files/recitation3.pdf) [[Solutions]](/files/recitation3_solns.pdf) [[Notation overview]](/files/notation.pdf)                                                                                   | Homework 4 due Sunday |
