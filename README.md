@@ -30,7 +30,7 @@ This course provides a place for students to practice the necessary mathematical
 | 2    | Wed: Sep 2  | Linear functions and operators, eigenvalues [[Slides]](files/lecture_4.pptx)                                                         |                       |
 | 2    | Fri: Sep 4  | Recitation [[Problems]](/files/recitation1.pdf) [[Solutions]](/files/recitation1_solutions.pdf)                                         | [Homework 2](files/F26_10606_HW2.pdf) due Sunday |
 | 3    | Mon: Sep 7  | No class (Labor Day)                                                                  |                       |
-| 3    | Wed: Sep 9  | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Practice problems]](files/quiz_1_practice_problems.pdf) [[Solutions]](files/quiz_2_practice_problems_solutions.pdf)                                                      |                       |
+| 3    | Wed: Sep 9  | Quiz 1 + Linear systems, gaussian elimination [[Slides]](files/lecture_5.pptx) [[Practice problems]](files/quiz1_practice_problems.pdf) [[Solutions]](files/quiz1_practice_problems_solutions.pdf)                                                      |                       |
 | 3    | Fri: Sep 11 | Recitation [[Problems]](/files/recitation2.pdf) [[Solutions]](/files/recitation2_solns.pdf)                                                                                     | Homework 3 due Sunday |
 | 4    | Mon: Sep 14 | Matrix inverses and linear regression [[Slides]](files/lecture_6.pptx)                                               |                       |
 | 4    | Wed: Sep 16 | Matrix factorization and low-rank structure [[Slides]](files/lecture_7.pptx)    |                       |
