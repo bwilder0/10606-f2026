@@ -43,4 +43,4 @@ This course provides a place for students to practice the necessary mathematical
 | 6    | Fri: Oct 2  | [Recitation] [[Problems]](/files/recitation5.pdf) [[Solutions]](/files/recitation5_solutions.pdf)                                                                                    | [Homework 6](files/F26_10606_HW6.pdf) due Sunday |
 | 7    | Mon: Oct 5  | Joint, marginal, and conditional distributions [[Slides]](files/lecture_12.pptx)                                               |                       |
 | 7    | Wed: Oct 7  | Estimation [[Slides]](files/lecture_13.pptx)                                                     |                       |
-| 7    | Fri: Oct 9  | Quiz 3 [[Practice Problems]](/files/quiz3_problems.pdf) [[Solutions]](/files/quiz3_solns.pdf)                                                                                          | Homework 7 due Sunday |
+| 7    | Fri: Oct 9  | Quiz 3 [[Practice Problems]](/files/quiz3_practice_problems.pdf) [[Solutions]](/files/quiz3_practice_problems_solutions.pdf)                                                                                          | Homework 7 due Sunday |
